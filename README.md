@@ -1,1 +1,4 @@
 # Clustering
+1. DBSCAN
+2. K MEANS
+3. HIERARCHICAL
